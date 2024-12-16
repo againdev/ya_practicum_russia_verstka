@@ -6,3 +6,4 @@
 
 Создана файловая структура по БЭМ (Nested).
 
+Ссылка на хост верстки https://againdev.github.io/ya_practicum_russia_verstka/
